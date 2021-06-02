@@ -41,9 +41,8 @@ body {
   }
   
   /* Selecting elements by ID */
-  #main-bio,
-  #contact-info,
-  #bio-image {
+  #main-sum,
+  #visual-links {
     float: left;
   }
   
@@ -51,23 +50,15 @@ body {
     position: relative;
   }
   
-  #bio-name {
-    position: absolute;
-    top: 150px;
-    left: 30px;
+  #sum-title {
+    position: relative;
   }
   
-  #main-bio {
+  #main-sum {
     width: 70%;
   }
   
-  #contact-info {
+  #visual-links {
     width: 30%;
-  }
-  
-  #bio-image {
-    width: 200px;
-    height: 200px;
-    margin-right: 20px;
   }
   
